@@ -1,4 +1,4 @@
-- 👋 Hi I am Dana Fullstack Developer fron Cornwall.
+- 👋 Hi I am Dan a Fullstack Developer fron Cornwall.
 - 👀 I emjoy working with Vuejs, TailwindCSS, Firebase
 - 🌱 I’m currently Learning TypeScript and NuxtJs and Supabase
 - 📫 You can reach me on Twitter @danc_mallett
