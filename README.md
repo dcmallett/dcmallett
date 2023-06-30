@@ -1,5 +1,5 @@
 - 👋 Hi I am Dan a Fullstack Developer fron Cornwall.
-- 👀 I emjoy working with Vuejs, TailwindCSS, Firebase
+- 👀 I emjoy working with Vuejs, TailwindCSS, Firebase, React, React Native
 - 🌱 I’m currently Learning TypeScript and NuxtJs and Supabase
 - 📫 You can reach me on Twitter @danc_mallett
 
