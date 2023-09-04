@@ -3,7 +3,12 @@
 - 🌱 I’m currently Learning TypeScript, React Native, NextJs
 - 📫 You can reach me on Twitter @danc_mallett
 
-<!---
-dcmallett/dcmallett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects
+
+Here you can view all of my projects that I have been working on. Some of the projects are live using vercel and has CI/CD integration.
+
+Sushiman
+https://sushi-resturant-website-html-css.vercel.app/
+
+This is a website which has is using HTML and CSS to show the basics of web development.
+
