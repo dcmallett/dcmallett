@@ -1,6 +1,7 @@
-- 👋 Hi I am Dan a Frontend Developer from Cornwall.
-- 👀 I work with on the Frontend ReactJS / NextJS, Vue3 / NuxtJs SASS / Bootstrap5 / Tailwind. On the backend it is Laravel / PHP NodeJs
-- 🌱 I’m currently NodeJs for backend
+- 👋 Hi I am Dan from Cornwall.
+- 👀 I am a frontend focused developer my current frontend stack is Next.js, React.js, Vue3, Nuxt.js, TailwindCSS, Framer Motion.
+- I can work on the backend too I currently use Node.js for the backend.
+- 🌱 I’m currently learning Golang too.
 - 📫 You can reach me on Twitter @danc_mallett
 
 Projects
