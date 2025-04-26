@@ -1,7 +1,5 @@
-- 👋 Hi I am Dan from Cornwall.
-- 👀 I am a frontend focused developer my current frontend stack is Next.js, React.js, Vue3, Nuxt.js, TailwindCSS, Framer Motion.
-- I can work on the backend too I currently use Node.js for the backend.
-- 🌱 I’m currently learning Golang too.
+- 👋 Hi I am Dan from East Yorkshire / Cornwall.
+- 👀 I am a Fullstack Developer, The stack I currently use is Nextjs, Typescript, TailwindCSS, AWS and Go
 - 📫 You can reach me on Twitter @danc_mallett
 
 Projects
