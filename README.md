@@ -1,9 +1,29 @@
-- 👋 Hi I am Dan from East Yorkshire / Cornwall.
-- 👀 I am a Fullstack Developer, The stack I currently use is Nextjs, Typescript, TailwindCSS, AWS and Go
-- 📫 You can reach me on Twitter @danc_mallett
+I’m a full-stack developer with 5+ years of experience building modern, scalable applications across agency, healthcare, and housing sectors.
 
-Projects
+I specialize in creating fast, user-focused web experiences using React, Next.js, Node.js, Tailwind CSS, and Go. I enjoy turning complex problems into clean, efficient solutions—whether that’s crafting intuitive frontends or building reliable backend services.
 
-Here you can view all of my projects that I have been working on. Some of the projects are live using vercel and has CI/CD integration.
+Currently focused on building meaningful, location-based digital experiences and continuously improving my skills across the full stack.
 
+🚧 What I’m Working On
+[My current project name or idea]
+[Short description – what problem it solves]
+[Tech I am using]
 
+📚 What I’m Learning
+[Language / framework]
+[Why I am learning it]
+[What I am building with it]
+
+🛠 Tech Stack
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Go
+Other: [APIs, tools, cloud, etc.]
+
+🌍 Interests
+Building real-world, location-based applications
+Performance and scalability
+Clean UI/UX
+
+📫 Contact
+LinkedIn: [link]
+GitHub: [link]
